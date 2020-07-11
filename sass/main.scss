@@ -2,9 +2,11 @@
 @import 'abstracts/mixins';
 @import 'abstracts/variables';
 
+@import 'base/base';
 @import 'base/animations';
 @import 'base/typography';
 
 @import 'components/nucleus-btn';
+@import 'components/thumbnail';
 
 @import 'layout/footer';
